@@ -1,0 +1,3 @@
+./miTest/AppTest.java
+./miPrincipal/Principal.java
+./miPrincipal/Calculadora.java
